@@ -9,8 +9,11 @@ I have a moderate amount of experience with programming, and I would like to con
 
 > Here is a link to [my LinkedIn page](https://www.linkedin.com/in/mihirkekkar/).
 
+## A picture I took at Gliderport Cliff
 ![A picture I took at Gliderport Cliff](IMG_1648.JPG)
 
+
+## A picture of my dog sleeping on the couch
 ![A picture of my dog sleeping on the couch](10-17-20.JPG)
 
 ## Sample Code
