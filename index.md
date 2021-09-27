@@ -47,7 +47,7 @@ in decreasing order of familiarity:
 [Click here to go back up to my About Me](#about-me)
 
 TODO
-- [x] Add all the core markdown constructs
-- [ ] Publish my page
-- [ ] Go buy groceries
+- [x]  Add all the core markdown constructs
+- [x]  Publish my page
+- [ ]  Go buy groceries
 
